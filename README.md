@@ -4,10 +4,6 @@ This project performs **end-to-end data processing, analysis, and visualization*
 
 ---
 
-## 📁 Folder Structure
-
-
----
 
 ## ✅ Features
 
